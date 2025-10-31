@@ -1,0 +1,13 @@
+{
+  "name": "injuries-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that shows user stats from injuries.lu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "node-fetch": "^2.6.7"
+  }
+}
